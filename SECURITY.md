@@ -29,10 +29,10 @@ Wenn du eine Sicherheitslücke in **Androidy Update** findest:
 
 ## Sicherheitshinweise
 
-Androidy Update:
+**Androidy Update:**
 
 - Benötigt Administrator-Rechte, um System-Software zu aktualisieren.
-- Führt **Netzwerk-Operationen** über WinGet aus, um nach verfügbaren Updates zu suchen und diese herunterzuladen.
+- Führt **Netzwerk-Operationen** über WinGet aus, um nach Updates zu suchen und diese zu laden.
 - Verändert keine Systemeinstellungen außerhalb der Software-Updates.
 - Sammelt keine Telemetrie-Daten und speichert keine persönlichen Informationen.
 
