@@ -180,7 +180,6 @@ Oder direkt die Datei `Androidy-Update-Exclude.txt` bearbeiten.
 | `Androidy-Update-v1.0.ico` | Icon fuer Verknuepfungen |
 | `Androidy-Update-v1.0-Verknuepfung.bat` | Erstellt Desktop-Verknuepfung |
 | `Androidy-Update-v1.0-Verknuepfung.ps1` | PowerShell-Skript fuer Verknuepfung |
-```
 
 ## Teil der Androidy-Familie
 
@@ -190,8 +189,6 @@ Oder direkt die Datei `Androidy-Update-Exclude.txt` bearbeiten.
 | [Androidy Install](https://github.com/smarthomelily/Androidy-Install) | WinGet Installer |
 | [Androidy Update](https://github.com/smarthomelily/Androidy-Update) | Windows Update Tool |
 | **Androidy Umzug** | PC-Migration & Datensicherung (coming soon) |
-
-
 
 ## Lizenz
 
