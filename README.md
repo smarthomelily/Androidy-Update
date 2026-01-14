@@ -188,7 +188,7 @@ Oder direkt die Datei `Androidy-Update-Exclude.txt` bearbeiten.
 | [Androidy Clean](https://github.com/smarthomelily/Androidy-Clean) | Windows Cleaning & Privacy Tool |
 | [Androidy Install](https://github.com/smarthomelily/Androidy-Install) | WinGet Installer |
 | [Androidy Update](https://github.com/smarthomelily/Androidy-Update) | Windows Update Tool |
-| **Androidy Umzug** | PC-Migration & Datensicherung (coming soon) |
+| **Androidy Move** | PC-Migration & Datensicherung (coming soon) |
 
 ## Lizenz
 
