@@ -1,16 +1,22 @@
+# Androidy Update - .gitignore
+
+# Log- und temporäre Dateien
+*.log
+update-history.txt
+*.tmp
+*.temp
+*~
+
 # Windows Systemdateien
 Thumbs.db
 desktop.ini
 
-# PowerShell & Update Logs
-*.log
-*.tmp
-*.temp
-update-history.txt
-
-# Backup-Dateien
+# PowerShell & Backup Dateien
 *.bak
 
-# Editor-Einstellungen
+# Editor-Einstellungen (VS Code & JetBrains)
 .vscode/
 .idea/
+
+# Betriebssystem-Spezifisches (macOS)
+.DS_Store
