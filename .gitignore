@@ -1,0 +1,16 @@
+# Windows Systemdateien
+Thumbs.db
+desktop.ini
+
+# PowerShell & Update Logs
+*.log
+*.tmp
+*.temp
+update-history.txt
+
+# Backup-Dateien
+*.bak
+
+# Editor-Einstellungen
+.vscode/
+.idea/
