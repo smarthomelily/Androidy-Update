@@ -181,7 +181,7 @@ Laufzeit-Dateien (werden automatisch erstellt):
 - **NEU:** Backup vor jedem Selfupdate
 - **Geändert:** `Androidy-Update.bat` — Versionsnummer und Hauptskript werden jetzt dynamisch ermittelt, keine hardcodierten Pfade mehr
 
-### v1.0 — 2026-05-26
+### v1.0 — 2026-01-18
 - Erstveröffentlichung
 - WinGet, Microsoft Store und Windows Updates in einem Tool
 - Exclude-Liste, Desktop-Icon-Bereinigung, Dry-Run Modus
