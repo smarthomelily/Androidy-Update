@@ -1,7 +1,7 @@
 # Androidy Update
 
 <p align="center">
-  <img src="Androidy-Update-v1.0.png" width="200">
+  <img src="Androidy-Update.png" width="200">
 </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-smarthomelily-181717?logo=github)](https://github.com/smarthomelily/Androidy-Update)
